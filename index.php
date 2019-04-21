@@ -1,7 +1,7 @@
 <?php
   // Параметр $number - сообщает число 
   // символов в пароле
-  echo generate_password(intval($_POST['number']));
+  echo generate_password(9);
 
   function generate_password($number)
   {
