@@ -2,8 +2,10 @@
 
 namespase info;
 
-
-function generate_password($number)
+class passgen
+{
+    
+  function generate_password($number)
   {
     $arr = array('a','b','c','d','e','f',
                  'g','h','i','j','k','l',
@@ -29,3 +31,6 @@ function generate_password($number)
     }
     return $pass;
   }
+    
+}
+
