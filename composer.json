@@ -1,0 +1,13 @@
+{
+    "name": "walerij/passgen19",
+    "description": "Generator of password",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhdanov Valerij",
+            "email": "becwal@yandex.ru"
+        }
+    ],
+    "require": {}
+}
