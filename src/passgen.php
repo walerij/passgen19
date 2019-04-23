@@ -1,6 +1,6 @@
 <?php
 
-namespase info;
+namespace info;
 
 class passgen
 {

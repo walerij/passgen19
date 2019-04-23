@@ -3,7 +3,7 @@
   // символов в пароле
 
 include "src/passgen.php";
-$new_pass= new passgen();
+$new_pass= new info\passgen();
 
 $a=9;
     
