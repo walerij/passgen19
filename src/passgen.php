@@ -29,7 +29,7 @@ class passgen
       $index = rand(0, count($arr) - 1);
       $pass .= $arr[$index];
     }
-    return $pass;
+    return $pass."\n";
   }
     
 }

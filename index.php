@@ -3,10 +3,10 @@
   // символов в пароле
 
 include "src/passgen.php"
-$pass= new passgen();
+$new_pass= new passgen();
 
 
     
-echo $pass->generate_password(9);
+echo $new_pass->generate_password(9);
 
   
