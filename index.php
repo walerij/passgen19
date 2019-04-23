@@ -2,7 +2,7 @@
   // Параметр $number - сообщает число 
   // символов в пароле
 
-include "src/passgen.php"
+include "src/passgen.php";
 $new_pass= new info\passgen();
 
 $a=9;
